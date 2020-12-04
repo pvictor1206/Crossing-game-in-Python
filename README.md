@@ -2,7 +2,7 @@
 en-US:
 
 Game developed with the objective of acquiring new knowledge in the Python programming language. In this game, 3 red frogs and 3 blue frogs are on one side of the bridge, the objective of the game is to take the blue frogs to the other side of the bridge without having more red frogs than blue frogs before the bridge.
-![Alt Text](https://github.com/{pvictor1206}/{imagensteste}/raw/{branch}/path/to/IN.gif)
+![Alt Text](https://github.com/{pvictor1206}/{imagensteste}/IN.gif)
 
 pt-BR:
 
