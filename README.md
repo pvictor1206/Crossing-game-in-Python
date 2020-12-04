@@ -7,3 +7,4 @@ Game developed with the objective of acquiring new knowledge in the Python progr
 ### pt-BR:
 
 Jogo desenvolvido com o objetivo de adquirir novos conhececimentos na linguagem de programação Python. Nesse jogo, 3 sapos de cor vermelha e 3 sapos de cor azul estão em um lado da ponte, o objetivo do jogo é levar os sapos de cor azul para o outro lado da ponte sem que tenha mais de sapos vermelhos que sapos azuis antes da ponte.
+![brgif](https://github.com/pvictor1206/Crossing-game-in-Python/blob/main/BR.gif)
