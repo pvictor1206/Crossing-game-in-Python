@@ -1,13 +1,9 @@
 """"
 Programa feito para treinar a linguagem de programação Python.
-
 O programa é simples e se trata de um jogo.
-
 Existem 3 sapos vermelhos e 3 sapos azuis antes da ponte, ajude a atravessar
 a cor do sapo azul para o outro lado da ponte...
-
 by: Paulo Victor Santos Magalhães
-
 """
 
 from os import system
@@ -197,7 +193,7 @@ try:
 
 
             linha()
-            print('REGRA: Não poder ter mais sapos vermelhos do que sapos azuis antes da ponte')
+            print('REGRA: Não poder ter mais sapos vermelhos do que sapos azuis antes da ponte\nTodos os sapos azuis devem está depois da ponte.')
             print('Jogo atual:')
             print('{}Sapos vermelhos antes da ponte: {}'.format(cores['vermelho'],cores['limpa']),end=' ')
             for c in range(0,3):
@@ -313,3 +309,4 @@ else:
         print('JOGO FINALIZADO, OBRIGADO POR JOGAR')
 
 print('...')
+
